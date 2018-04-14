@@ -1,1 +1,3 @@
 # pineappleSublime
+
+Welcome to pineappleSublime!
