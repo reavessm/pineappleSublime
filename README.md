@@ -9,3 +9,4 @@ Welcome to pineappleSublime!
 3. Time and Date
 4. Pictures
 5. anything else?
+6. Profit
